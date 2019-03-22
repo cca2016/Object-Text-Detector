@@ -26,7 +26,14 @@ https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
 ##Python:
 Commandline usage for object detection using YOLOv3  
-a single image:  
-	python3 object_detection_yolo.py --image=bird.jpg  
-a video file:  
-	python3 object_detection_yolo.py --video=run.mp4  
+a single image: 
+>> 
+```
+python3 object_detection_yolo.py --image=bird.jpg 
+``` 
+
+a video file: 
+>> 
+```
+python3 object_detection_yolo.py --video=run.mp4  
+```
