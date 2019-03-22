@@ -1,6 +1,8 @@
-****Download the model weights and configuration files****
-# YOLOV3 + EAST
+# YOLOV3 + EAST 
+### Object+Text Detection Tester
 ![](https://github.com/cca2016/TestingYoloV3/blob/master/jeep_yolo_EAST_py.jpg)
+
+## **Download the model weights and configuration files**
 ##  For Linux
 Run the getModels.sh file from command line to download the needed model files
 
