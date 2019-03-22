@@ -1,5 +1,5 @@
-# Usage example:  python3 object_detection_yolo.py --video=run.mp4
-#                 python3 object_detection_yolo.py --image=bird.jpg
+# Usage example:  python3 object_text_detection.py --video=run.mp4
+#                 python3 oobject_text_detection.py --image=bird.jpg
 
 import cv2 as cv
 import argparse
