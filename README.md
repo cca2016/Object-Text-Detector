@@ -22,9 +22,9 @@ https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
 3. After unzipping, copy the **`.pb`** model file to the working directory.
 
-#**Running the code**
+# **Running the code**
 
-##Python:
+## Python:
 Commandline usage for object detection using YOLOv3  
 a single image: 
 >> 
