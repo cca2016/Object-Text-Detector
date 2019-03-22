@@ -1,6 +1,6 @@
 ****Download the model weights and configuration files****
 # YOLOV3 + EAST
-![](https://github.com/cca2016/TestingYoloV3/blob/master/bikes_yolo_EAST_py.jpg)
+![](https://github.com/cca2016/TestingYoloV3/blob/master/jeep_yolo_EAST_py.jpg)
 ##  For Linux
 Run the getModels.sh file from command line to download the needed model files
 
@@ -10,9 +10,9 @@ Run the getModels.sh file from command line to download the needed model files
 ##  For Windows
 Download the files from the links given below
 
-https://pjreddie.com/media/files/yolov3.weights
-https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
-https://github.com/pjreddie/darknet/blob/master/data/coco.names
+https://pjreddie.com/media/files/yolov3.weights  
+https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg  
+https://github.com/pjreddie/darknet/blob/master/data/coco.names  
 
 
 ## Getting the EAST Model
