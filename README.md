@@ -1,5 +1,6 @@
 ****Download the model weights and configuration files****
 # YOLOV3 + EAST
+![](https://github.com/cca2016/TestingYoloV3/blob/master/bikes_yolo_EAST_py.jpg)
 ##  For Linux
 Run the getModels.sh file from command line to download the needed model files
 
@@ -29,11 +30,11 @@ Commandline usage for object detection using YOLOv3
 a single image: 
 >> 
 ```
-python3 object_detection_yolo.py --image=bird.jpg 
+python3 object_detection_yolo.py --image=XXX.jpg 
 ``` 
 
 a video file: 
 >> 
 ```
-python3 object_detection_yolo.py --video=run.mp4  
+python3 object_detection_yolo.py --video=XXX.mp4  
 ```
