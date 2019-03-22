@@ -1,11 +1,10 @@
 ****Download the model weights and configuration files****
-# YOLOV3
+# YOLOV3 + EAST
 ##  For Linux
 Run the getModels.sh file from command line to download the needed model files
 
 	sudo chmod a+x getModels.sh
 	./getModels.sh
-
 
 ##  For Windows
 Download the files from the links given below
@@ -14,8 +13,6 @@ https://pjreddie.com/media/files/yolov3.weights
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
-# Text-Detection-DNN
-Text detection using OpenCV DNN
 
 ## Getting the EAST Model
 
@@ -25,11 +22,11 @@ Text detection using OpenCV DNN
 
 3. After unzipping, copy the **`.pb`** model file to the working directory.
 
-******Running the code******
+#**Running the code**
 
-Python:
-Commandline usage for object detection using YOLOv3
-a single image:
-	python3 object_detection_yolo.py --image=bird.jpg
-a video file:
-	python3 object_detection_yolo.py --video=run.mp4
+##Python:
+Commandline usage for object detection using YOLOv3  
+a single image:  
+	python3 object_detection_yolo.py --image=bird.jpg  
+a video file:  
+	python3 object_detection_yolo.py --video=run.mp4  
