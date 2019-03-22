@@ -32,11 +32,11 @@ Commandline usage for object detection using YOLOv3
 a single image: 
 >> 
 ```
-python3 object_detection_yolo.py --image=XXX.jpg 
+python3 object_text_detection.py --image=XXX.jpg 
 ``` 
 
 a video file: 
 >> 
 ```
-python3 object_detection_yolo.py --video=XXX.mp4  
+python3 object_text_detection.py --video=XXX.mp4  
 ```
